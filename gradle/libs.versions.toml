@@ -30,7 +30,7 @@ protobuf = "4.26.1"
 # plugins
 protobufPlugin = "0.9.4"
 androidGradlePlugin = "8.4.0"
-jetbrainsKotlin = "1.9.23"
+jetbrainsKotlin = "2.0.0"
 
 # libraries and plugins
 daggerHilt = "2.51.1"
